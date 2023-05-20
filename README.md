@@ -26,7 +26,7 @@ We will use postman to check the api is working or not,So download postman on yo
 
 1.Now use this **http://localhost:5000/api/v1/doctors/register** route to register doctor in API and add the info as shown in image
 
-![image](https://user-images.githubusercontent.com/74106414/236742135-8da37d9f-7495-4f18-8ae4-f0d33e818ec9.png)
+![1doctors_register](https://github.com/Yashas682/Hospital_api/assets/91604926/8d497fb3-120e-4d4d-97ac-f08c9b76c78d)
 
 2.Use this **http://localhost:5000/api/v1/doctors/login** to login as a doctor and add info as shown in image
 
