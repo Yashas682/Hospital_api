@@ -40,7 +40,7 @@ We will use postman to check the api is working or not,So download postman on yo
 4. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/create_report** to create report and add status you can see the types of 
    status in report model.
 
-![image](https://user-images.githubusercontent.com/74106414/236742216-a4684b3b-7e2f-4c2e-a24a-0cf0818d7701.png)
+![4create_rep](https://github.com/Yashas682/Hospital_api/assets/91604926/cd3837d4-bef7-4123-81eb-d73dad7de1db)
 
 
 5. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/all_reports** to get all the reports.
