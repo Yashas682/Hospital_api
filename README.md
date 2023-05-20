@@ -45,4 +45,4 @@ We will use postman to check the api is working or not,So download postman on yo
 
 5. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/all_reports** to get all the reports.
 
-![image](https://user-images.githubusercontent.com/74106414/236742229-ad057a9b-3b03-4496-bf55-36f1bced526f.png)
+![5all_rep](https://github.com/Yashas682/Hospital_api/assets/91604926/7f190e83-cc5b-4bb2-b9bc-8aed8d17f9c4)
