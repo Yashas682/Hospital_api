@@ -34,7 +34,8 @@ We will use postman to check the api is working or not,So download postman on yo
 
 3.Use this **http://localhost:5000/api/v1/patients/register** and add the token in authorization area which is recieved in second point
 
-![image](https://user-images.githubusercontent.com/74106414/236742199-0f9a71eb-a2a2-4e4f-889d-000a156e7816.png)
+![3 pat_reg (2)](https://github.com/Yashas682/Hospital_api/assets/91604926/58b15784-936b-4f5d-a541-c8f22cca97e1)
+![3 1pat_reg (2)](https://github.com/Yashas682/Hospital_api/assets/91604926/10e3214c-f103-4235-bf96-134424cd3351)
 
 4. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/create_report** to create report and add status you can see the types of 
    status in report model.
